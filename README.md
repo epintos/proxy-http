@@ -3,6 +3,8 @@ Proxy Http 1.1
 
 Final project for Communication Protocols course at ITBA. Year 2012.
 
-=========
+## Instructions
 
-To compile: on directory where pom.xml is located execute: mvn assembly:assembly
+To compile execute in the root:
+
+        mvn assembly:assembly
